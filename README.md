@@ -10,8 +10,16 @@ The IT Manager writes:
 > Everyone in Billing has been given access one request at a time, and it's a mess. Can you design proper roles, and flag anything that shouldn't be allowed in the first place?
 
 
+
 <BR>
 
+**Supporting information:** HR Export & Patient Admin Portal Users
+
+<BR>
+
+<table>
+<tr>
+<td>
 
  **🛡️ ACCESS DECISION**
 
@@ -21,12 +29,16 @@ The IT Manager writes:
 
 <BR>
 
- Here's how I reached that decision.
 
+</td>
+</tr>
+</table>
 
 <BR>
 
-
+ **Here's how I reached that decision.**
+ 
+<BR>
 
 ## What's the Risk?
 
