@@ -79,11 +79,11 @@ I'd address Fraser first, then Ben and Dev, while testing that the changes don't
 
 This time, I started with individual accounts and worked towards designing an RBAC model. Next time, I'd reverse that approach.
 
-I'd start by understanding what each role needs to do, then design what the access should look like. That would give me a clearer baseline to compare against the existing permissions, rather than working out what to remove one account at a time.
+I'd start by understanding what each role needs to do, then define the permissions it should have. That would give me a clearer baseline to compare against existing access, rather than working out what to remove one account at a time.
 
-I'd still address urgent risks like Fraser's immediately, but I'd approach the wider review with a clearer picture of the access model I was trying to achieve.
+I'd still address urgent risks like Fraser's immediately, but I'd approach the wider review with a clearer picture of the access model I wanted to achieve.
 
-I'd also bring relevant security guidance into the investigation earlier, using it to shape the controls I recommend and identify what needs testing.
+I'd also bring security guidance into the investigation earlier, using it to shape my recommendations and identify what needs testing.
 
 <BR>
 
