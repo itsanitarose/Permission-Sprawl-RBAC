@@ -63,18 +63,15 @@ I reviewed six accounts in the Billing system. Five needed permission changes.
 
 ## Decisions & Recommendations
 
+This raised a question I couldn't ignore: Why can the person who fixes the system also move the money?
 
-This raised a question I couldn't ignore: **Why can the person who fixes the system also move the money?**
-
-His combination of permissions created two serious risks:
-
-- **Insider fraud:** Someone misusing Fraser's account could potentially create a fraudulent payee and approve payments without independent oversight. If his System Admin access also allows changes to audit settings or logs, they might be able to interfere with the records used to detect that activity. I would need to verify those administrative capabilities.
-
-- **Account compromise:** If an attacker gained access to Fraser's account, they could inherit both his financial permissions and administrative access. One compromised account could therefore expose several sensitive functions at once.
+Fraser had all seven Billing permissions, including the ability to create payees, approve payments and administer the system. That combination creates opportunities for financial misuse, whether by an employee or someone who compromises the account.
 
 I couldn't tell from the permission records how Fraser ended up with all seven permissions. Were they granted for an earlier support task and never removed, or did he inherit them through an overly broad role?
 
 **My recommendation** was to remove his six unnecessary financial and Billing permissions, while checking which administrative access he genuinely needed for IT Support. For tasks requiring elevated privileges, I recommended temporary, just-in-time (JIT) access instead of permanent access.
+
+I'd address Fraser first, then Ben and Dev, while testing that the changes don't disrupt legitimate Billing work.
 
 <BR>
 
