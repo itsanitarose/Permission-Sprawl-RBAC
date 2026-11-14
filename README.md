@@ -9,7 +9,24 @@ The IT Manager writes:
 
 > Everyone in Billing has been given access one request at a time, and it's a mess. Can you design proper roles, and flag anything that shouldn't be allowed in the first place?
 
+
 <BR>
+
+
+ **🛡️ ACCESS DECISION**
+
+**Fraser was the priority.**
+
+ Five accounts needed remediation. I recommended removing his six unnecessary Billing permissions, reviewing his Admin access and correcting the remaining accounts through RBAC.<BR>
+
+<BR>
+
+ Here's how I reached that decision.
+
+
+<BR>
+
+
 
 ## What's the Risk?
 
