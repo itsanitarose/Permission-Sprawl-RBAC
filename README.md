@@ -121,7 +121,7 @@ I'd also bring security guidance into the investigation earlier, using it to sha
 
 | Document                                                                                   | What's Inside                                       |
 | ------------------------------------------------------------------------------------------ | --------------------------------------------------- |
-| [01. Source Data](Document/01.%20Source%20Data.md)                                         | Original access and job requirements                |
+| [01. Billing Access & Role Requirements](Document/01.%20Billing%20Access%20%26%20Role%20Requirements.md) | Original access permissions and job requirements |
 | [02. RBAC Design](Document/02.%20RBAC%20Design.md)                                         | Proposed roles and security groups                  |
 | [03. Segregation of Duties (SoD)](Document/03.%20Segregation%20of%20Duties%20%28SoD%29.md) | Conflicting permissions and recommended controls    |
 | [04. Findings & Recommendations](Document/04.%20Findings%20%26%20Recommendations.md)       | Employee findings and risk priorities               |
