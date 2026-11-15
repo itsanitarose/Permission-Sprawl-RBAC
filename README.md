@@ -13,9 +13,9 @@ The IT Manager writes:
 
 <BR>
 
-**Supporting information:** HR Export & Patient Admin Portal Users
+**Supporting Information:** [Billing Access & Role Requirements](Document/01.%20Source%20Data.md)
 
-<BR>
+<BR><BR>
 
 <table>
 <tr>
@@ -23,9 +23,7 @@ The IT Manager writes:
 
  **🛡️ ACCESS DECISION**
 
-**Fraser was the priority.**
-
- Five accounts needed remediation. I recommended removing his six unnecessary Billing permissions, reviewing his Admin access and correcting the remaining accounts through RBAC.<BR>
+Five accounts needed remediation. **Fraser** was the priority: remove his six unnecessary Billing permissions, review his Admin access, and correct the remaining four accounts through RBAC.
 
 <BR>
 
@@ -36,7 +34,7 @@ The IT Manager writes:
 
 <BR>
 
- **Here's how I reached that decision.**
+My first step was to understand what could go wrong with the access already in place.
  
 <BR>
 
