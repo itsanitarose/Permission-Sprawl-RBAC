@@ -23,7 +23,7 @@ The IT Manager writes:
 <tr>
 <td>
 
- **🛡️ The Bottom Line**
+**🛡️ Decision**
 
 Five accounts needed remediation. **Fraser** was the priority: remove his six unnecessary Billing permissions, review his Admin access, and correct the remaining four accounts through RBAC.
 
